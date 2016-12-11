@@ -15,15 +15,5 @@ public class BackgroundController : MonoBehaviour {
 
 
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	}
-
-
-
-
-
-
 
 }
